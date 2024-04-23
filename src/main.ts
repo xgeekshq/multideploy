@@ -27,7 +27,7 @@ async function bootstrap() {
   );
 
   const config = new DocumentBuilder()
-    .setTitle(`IDP Demo API - azure`)
+    .setTitle(`IDP Demo API - Azure`)
     .setDescription('Multicloud api deployment demo')
     .setVersion('1.0')
     .addBearerAuth()
