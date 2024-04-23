@@ -1,0 +1,16 @@
+site_name: multideploy
+site_description: 'Main documentation for multideploy project'
+repo_url: https://github.com/xgeekshq/multideploy.git
+edit_uri: edit/master/docs
+
+# plugins:
+#   - techdocs-core
+
+# For sidebar navigation
+nav:
+  - index.md
+  - Overview:
+      - What is multideploy?: 'overview/what-is-multideploy.md'
+      - Project Roadmap: 'overview/roadmap.md'
+  - Getting Started:
+      - Getting Started: 'index.md'
